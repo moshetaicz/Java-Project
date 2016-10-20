@@ -1,2 +1,0 @@
-Hey.
-This is a file that was created on the client side and was uploaded to Github
